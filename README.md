@@ -2,10 +2,7 @@
 An AI chatbot-styled batch script.
 
 # longer desc for it
-============================================================
-pcb_ai
-pcb = pre-programmed command based
-
+pcb = pre-programmed command based. 
 pcb_ai is an ai-styled program written in cmd/batch.
 this "ai" is not based on any api, because of the
 limitations of things in the batch scripting language.
